@@ -3,9 +3,9 @@
     {
       "identity" : "maplibre-gl-native-distribution",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/maplibre/maplibre-gl-native-distribution.git",
+      "location" : "https://github.com/HudHud-Maps/maplibre-gl-native-distribution.git",
       "state" : {
-        "revision" : "b84a0decbe9ca1caeff1402efdce71349c09d790",
+        "revision" : "b7edc89d400d735347bc318b220604637531967b",
         "version" : "6.8.1"
       }
     },
@@ -16,6 +16,15 @@
       "state" : {
         "revision" : "9e27e62dff7fd727aebd0a7c8aa74e7635a5583e",
         "version" : "0.0.5"
+      }
+    },
+    {
+      "identity" : "maplibre-swiftui-dsl-playground",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HudHud-Maps/maplibre-swiftui-dsl-playground",
+      "state" : {
+        "branch" : "hudhud/gltf-models",
+        "revision" : "71e4b4b148cdbc9470e0feecdb31a653f674b27e"
       }
     },
     {
@@ -43,15 +52,6 @@
       "state" : {
         "revision" : "2bc86522d115234d1f588efe2bcb4ce4be8f8b82",
         "version" : "510.0.3"
-      }
-    },
-    {
-      "identity" : "swiftui-dsl",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/maplibre/swiftui-dsl",
-      "state" : {
-        "revision" : "e9ad08274471fb30e8cfddf55c3a6c5426943b20",
-        "version" : "0.4.3"
       }
     }
   ],
